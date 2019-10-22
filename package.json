@@ -1,0 +1,8 @@
+{
+  "name": "TF-TD",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SupinePandora43/TF-TD.git",
+  "author": "SupinePandora43 <supinepandoraggg@gmail.com>",
+  "license": "MIT"
+}
