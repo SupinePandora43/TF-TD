@@ -14,5 +14,6 @@ jobs:
     - name: yarn
       run: |
         yarn 
+        yarn build
       env:
         CI: true
