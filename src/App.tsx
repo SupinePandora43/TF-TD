@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import "animejs" as animejs;
 
 const App: React.FC = () => {
   return (
