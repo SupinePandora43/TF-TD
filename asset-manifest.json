@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TF-TD/static/css/main.dfca195d.chunk.css",
+    "main.js": "/TF-TD/static/js/main.119a595c.chunk.js",
+    "main.js.map": "/TF-TD/static/js/main.119a595c.chunk.js.map",
+    "runtime-main.js": "/TF-TD/static/js/runtime-main.35899227.js",
+    "runtime-main.js.map": "/TF-TD/static/js/runtime-main.35899227.js.map",
+    "static/js/2.3ae456c8.chunk.js": "/TF-TD/static/js/2.3ae456c8.chunk.js",
+    "static/js/2.3ae456c8.chunk.js.map": "/TF-TD/static/js/2.3ae456c8.chunk.js.map",
+    "index.html": "/TF-TD/index.html",
+    "precache-manifest.4579789181e5454b2fb3654d0c67890f.js": "/TF-TD/precache-manifest.4579789181e5454b2fb3654d0c67890f.js",
+    "service-worker.js": "/TF-TD/service-worker.js",
+    "static/css/main.dfca195d.chunk.css.map": "/TF-TD/static/css/main.dfca195d.chunk.css.map",
+    "static/media/logo.svg": "/TF-TD/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35899227.js",
+    "static/js/2.3ae456c8.chunk.js",
+    "static/css/main.dfca195d.chunk.css",
+    "static/js/main.119a595c.chunk.js"
+  ]
+}
